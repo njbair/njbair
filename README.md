@@ -1,6 +1,8 @@
-65% water  
-12% fatty acids  
-23% chipotle
+```
+[#################################----------------- 65%] water  
+[######-------------------------------------------- 12%] fatty acids  
+[###########--------------------------------------- 23%] chipotle
+```
 
 <!--
 **njbair/njbair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
